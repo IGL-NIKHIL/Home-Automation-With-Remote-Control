@@ -7,3 +7,4 @@ Home Automation with Remote Control is a system designed to control household el
 4. Light bulb
 5. 5V , 5A Power Supply
 # Link of The Project:
+https://www.tinkercad.com/things/iROM1RlcDrT-home-automation-with-remote-control?sharecode=N8RE0YDwJhnh1v5mOef59AmX5jEDG1BDcvyfoeDA3wA
